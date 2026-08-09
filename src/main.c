@@ -1,9 +1,16 @@
+/*
 #include <stdio.h>
 #include "esp_twai.h"
 #include "esp_twai_onchip.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/queue.h"
 
+typedef struct {
+    twai_frame_t frame; // Struktura do przechowywania odebranej ramki CAN
+    uint8_t dane[8]; // Bufor do przechowywania danych odebranej ramki CAN
+} moja_ramka_can_t;
+
+//moja_ramka_can_t ramka; // Tworzymy strukturę do przechowywania odebranej ramki CAN
 QueueHandle_t twai_queue; // Tworzymy rurę do transportu odebranych ramek CAN
 twai_frame_t odebrana_ramka; // Tworzymy strukturę do przechowywania odebranej ramki CAN
 
@@ -20,14 +27,17 @@ twai_onchip_node_config_t node_config = {
 // Funkcja callback dla zdarzenia "RX done" (odebrano ramkę)
 static bool twai_rx_cb(twai_node_handle_t handle, const twai_rx_done_event_data_t *edata, void *user_ctx)
 {
-    static uint8_t recv_buff[8]; // Tworzymy bufor do przechowywania odebranej ramki CAN
+    //static uint8_t recv_buff[8]; // Tworzymy bufor do przechowywania odebranej ramki CAN
     twai_frame_t rx_frame = {
-        .buffer = recv_buff, // Wskazujemy bufor do przechowywania odebranej ramki
-        .buffer_len = sizeof(recv_buff), // Ustawiamy długość bufora, w tym przypadku 8 bajtów dla standardowej ramki CAN
+        .buffer = odebrana_ramka., // Wskazujemy bufor do przechowywania odebranej ramki
+        .buffer_len = sizeof(ramka.dane), // Ustawiamy długość bufora, w tym przypadku 8 bajtów dla standardowej ramki CAN
     };
     // Jeżeli odebrano ramkę, umieszczamy ją w kolejce do dalszego przetwarzania w głównej pętli programu
     if (ESP_OK == twai_node_receive_from_isr(handle, &rx_frame)) {
-        xQueueSendFromISR(twai_queue, &rx_frame, NULL); // Umieszczamy odebraną ramkę w kolejce do dalszego przetwarzania
+        moja_ramka_can_t paczka = {
+            .frame = rx_frame.dane, // Przypisujemy odebraną ramkę do struktury paczki
+        };
+        xQueueSendFromISR(twai_queue, &paczka, NULL); // Umieszczamy odebraną ramkę w kolejce do dalszego przetwarzania
     }
     return false; // Zwracamy false, aby nie odblokowywać wyższych priorytetów zadań
 }
@@ -40,7 +50,7 @@ void app_main() {
     };
 
     // Tworzymy kolejkę do przechowywania odebranych ramek CAN
-    twai_queue = xQueueCreate(10, sizeof(twai_frame_t) );
+    twai_queue = xQueueCreate(10, sizeof(moja_ramka_can_t)); // Tworzymy kolejkę o pojemności 10 ramek CAN
 
     // Tworzymy nowy węzeł TWAI z konfiguracją dla wbudowanego kontrolera
     ESP_ERROR_CHECK(twai_new_node_onchip(&node_config, &node_hdl));
@@ -55,6 +65,11 @@ void app_main() {
         if(xQueueReceive(twai_queue, &odebrana_ramka, portMAX_DELAY ) == pdTRUE) {
         // Handle received data
         printf("Ramka CAN odebrana: %d\n", (int)odebrana_ramka.header.id); // Wyświetlamy ID odebranej ramki CAN
+        for(int i = 0; i < odebrana_ramka.buffer_len; i++) {
+            printf("Dane[%d]: %02X ", i, odebrana_ramka.buffer[i]); // Wyświetlamy dane odebranej ramki CAN w formacie szesnastkowym
+        }
+        printf("\n");
         }
     }
 }
+*/
