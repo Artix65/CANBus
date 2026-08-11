@@ -1,0 +1,1227 @@
+---- Opened the serial port COM7 ----
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+Ramka CAN odebrana: 304
+Dane[0]: C5 Dane[1]: 41 Dane[2]: FF Dane[3]: FF Dane[4]: FF Dane[5]: 00 Dane[6]: 00 Dane[7]: 00 
+
+---- Closed the serial port COM7 ----
